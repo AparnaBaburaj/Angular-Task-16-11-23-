@@ -1,0 +1,34 @@
+
+.bx-part1{
+    width: 100%;
+    height: auto;
+    display: flex;
+    
+    
+}
+
+.bx-sextion1{
+    width: 60%;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(170, 202, 230);
+    margin-top: 7%;
+   margin-left: 20%;
+   margin-bottom: 5%;
+   box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2);
+}
+input{
+    margin-top: 20px;
+    height: 30px;
+    border: none;
+}
+button{
+    background-color: navy;
+    color: white;
+    width: 180px;
+    height: 35px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
